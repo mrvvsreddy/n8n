@@ -34,5 +34,3 @@ services:
         value: 5678
       - key: N8N_PROTOCOL
         value: http
-      - key: WEBHOOK_URL
-        value: https://n8n-0wby.onrender.com/
